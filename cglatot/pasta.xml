@@ -8,7 +8,7 @@
     <Shell>sh</Shell>
     <Privileged>false</Privileged>
     <Support/>
-    <Project>https://www.pastatool.com</Project>
+    <Project>https://github.com/cglatot/pasta</Project>
     <Overview>PASTA | Audio and Subtitle Track Changer for Plex</Overview>
     <Category>Tools: Other:</Category>
     <WebUI>http://[IP]:[PORT:24291]/</WebUI>
