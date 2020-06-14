@@ -1,3 +1,8 @@
+**IMPORTANT**
+
+This is now available via Unraid's Community Applications thanks to https://github.com/selfhosters/unRAID-CA-templates.
+You can just search within Community applications to find this.
+
 **Description**
 
 unRAID Docker Templates for Docker images in the "cglatot" repository.
