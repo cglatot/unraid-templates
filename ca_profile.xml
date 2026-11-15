@@ -1,0 +1,10 @@
+<CommunityApplications>
+  <!-- Required profile -->
+  <Profile>
+    Repository mainly for PASTA and modified Overlay-focused DAKOSYS fork.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/cglatot/pasta/refs/heads/master/public/images/Logo-Transparent.png</Icon>
+  <WebPage>https://github.com/cglatot</WebPage>
+  <DonateLink>https://ko-fi.com/cglatot</DonateLink>
+  <DonateText>Support this project</DonateText>
+</CommunityApplications>

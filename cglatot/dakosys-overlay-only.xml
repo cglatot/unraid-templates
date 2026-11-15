@@ -1,23 +1,19 @@
-<?xml version="1.0"?>
 <Container version="2">
   <Name>DAKOSYS Overlay Only</Name>
   <Repository>ghcr.io/cglatot/dakosys-overlay-only:latest</Repository>
   <Registry>https://github.com/cglatot/Dakosys-Overlay-Only/pkgs/container/dakosys-overlay-only</Registry>
   <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support>https://github.com/cglatot/Dakosys-Overlay-Only</Support>
   <Project>https://github.com/sahara101/Dakosys</Project>
-  <Overview>DAKOSYS Overlay Only is a streamlined version of the DAKOSYS tool, focused solely on creating and managing Kometa/PMM overlays for Plex users.</Overview>
+  <Overview>DAKOSYS Overlay Only is a streamlined overlay-only version of the DAKOSYS tool.</Overview>
+  <Description>DAKOSYS Overlay Only is a streamlined version of the DAKOSYS tool, focused solely on creating and managing Kometa/PMM overlays for Plex users</Description>
   <Category>Tools:Utilities</Category>
   <WebUI/>
-  <TemplateURL></TemplateURL>
-  <Icon></Icon>
-  <ExtraParams/>
-  <PostArgs/>
-  <DonateText></DonateText>
-  <DonateLink></DonateLink>
-  <Requires/>
+  <TemplateURL>https://raw.githubusercontent.com/cglatot/unraid-templates/refs/heads/master/cglatot/dakosys-overlay-only.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/cglatot/Dakosys-Overlay-Only/refs/heads/main/dakosys-logo.png</Icon>
   <Config Name="Config Directory" Target="/app" Default="/mnt/user/appdata/dakosys" Mode="rw" Description="" Type="Path" Display="always" Required="true" Mask="false"/>
   <Config Name="Kometa Directory" Target="/kometa" Default="/mnt/user/appdata/Kometa" Mode="rw" Description="" Type="Path" Display="always" Required="true" Mask="false"/>
-  <TailscaleStateDir/>
 </Container>
