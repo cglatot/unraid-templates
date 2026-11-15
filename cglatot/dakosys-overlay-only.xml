@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>DAKOSYS</Name>
+  <Name>DAKOSYS Overlay Only</Name>
   <Repository>ghcr.io/cglatot/dakosys-overlay-only:latest</Repository>
   <Registry>https://github.com/cglatot/Dakosys-Overlay-Only/pkgs/container/dakosys-overlay-only</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
   <Support>https://github.com/cglatot/Dakosys-Overlay-Only</Support>
   <Project>https://github.com/sahara101/Dakosys</Project>
-  <Overview>DAKOSYS is a powerful tool for Plex users that creates and manages Trakt.tv lists and Kometa/PMM overlays. It helps you categorize anime episodes by type, track TV show statuses, display media file sizes, all running in Docker with automatic scheduling.</Overview>
+  <Overview>DAKOSYS Overlay Only is a streamlined version of the DAKOSYS tool, focused solely on creating and managing Kometa/PMM overlays for Plex users.</Overview>
   <Category>Tools:Utilities</Category>
   <WebUI/>
   <TemplateURL></TemplateURL>
