@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
 <Container version="2">
   <Name>PASTA</Name>
-  <Repository>cglatot/pasta</Repository>
+  <Repository>cglatot/pasta:latest</Repository>
   <Registry>https://hub.docker.com/r/cglatot/pasta</Registry>
   <Network>bridge</Network>
   <Shell>sh</Shell>
