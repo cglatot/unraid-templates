@@ -8,7 +8,7 @@
   <Privileged>false</Privileged>
   <Support>https://github.com/cglatot/pasta/issues</Support>
   <Project>https://github.com/cglatot/pasta</Project>
-  <Overview>PASTA - Plex Audio &amp; Subtitle Track Automation</Overview>
+  <Overview>[OFFICIAL] PASTA (Plex Audio &amp; Subtitle Track Automation) connects to your Plex Media Server to let you inspect detailed audio and subtitle stream metadata, batch-update tracks across episodes, seasons, shows, collections, or libraries, and automatically sync TV show language preferences in the background across all of your devices and users.</Overview>
   <Description>PASTA (Plex Audio &amp; Subtitle Track Automation) connects to your Plex Media Server to let you inspect detailed audio and subtitle stream metadata, batch-update tracks across episodes, seasons, shows, collections, or libraries, and automatically sync TV show language preferences in the background across all of your devices and users.</Description>
   <Category>Tools: MediaApp:Other Other:</Category>
   <WebUI>http://[IP]:[PORT:80]/</WebUI>
